@@ -2,8 +2,6 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
- *
- * 暴力法
  */
 var twoSum = function (nums, target) {
   for (var i = 0; i < nums.length - 1; i++) {
@@ -16,3 +14,7 @@ var twoSum = function (nums, target) {
 
   return [];
 };
+
+/**
+ * 暴力法
+ */
