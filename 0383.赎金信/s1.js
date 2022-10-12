@@ -1,4 +1,6 @@
 /**
+ * https://leetcode.cn/problems/ransom-note/
+ * 
  * @param {string} ransomNote
  * @param {string} magazine
  * @return {boolean}
