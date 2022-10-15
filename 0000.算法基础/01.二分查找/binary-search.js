@@ -39,3 +39,4 @@ const binarySearch = (list, target) => {
 const list = [1, 3, 5, 6, 9, 10, 13, 17, 20], target = 6;
 
 console.log(binarySearch(list, target));
+// 3

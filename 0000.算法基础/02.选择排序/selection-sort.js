@@ -42,3 +42,4 @@ const selectionSort = (arr) => {
 const arr = [12, 4, 6, 21, 8, 0, 17, 23, 16];
 
 console.log(selectionSort(arr));
+// [0, 4, 6, 8, 12, 16, 17, 21, 23]

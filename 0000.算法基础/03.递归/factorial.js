@@ -17,3 +17,4 @@ const factorial = (x) => {
 };
 
 console.log(factorial(5));
+// 120
